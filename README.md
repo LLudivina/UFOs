@@ -14,6 +14,7 @@ JavaScript, HTML, and Bootstrap used to complete the challenge and generate the 
 
 ## Figure 1
 ![Untitled](https://user-images.githubusercontent.com/115508896/219261323-f6bdb7af-6af5-435d-924f-57e1638fe736.png)
+
 For our HTML, 4 list elements were created.  The elements called city, state, country, and shape were created to provide different search parameters.  The code can be seen in Figure 1. 
 
 ## Figure 2
